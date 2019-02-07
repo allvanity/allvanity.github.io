@@ -1,3 +1,6 @@
+body {
+  padding: 24px;
+}
 .main-navigation {
   width: 200px;
   height: 200px;
