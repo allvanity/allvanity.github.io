@@ -1,8 +1,9 @@
 body {
-  padding: 24px;
+  padding: 0;
+  margin: 0;
   background-color: #777777;
 }
-.main-navigation {
-  width: 200px;
-  height: 200px;
+
+.container {
+  padding: 20px;
 }
