@@ -5,5 +5,9 @@ body {
 }
 
 .container {
+  displey: flex;
+  flex-direction: column;
+  jastify-content: center;
+  align-content: center;
   padding: 20px;
 }
